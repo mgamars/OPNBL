@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ###############################################################################
-# Copyright 2018-2019 Amri Mohamed                                            #
+# Copyright 2018-2019 amtn                                           #
 #                                                                             #
 #    Licensed under the GNU GPLv3 (the "License"); you may                    #
 #    not use this file except in compliance with the License. You may obtain  #
